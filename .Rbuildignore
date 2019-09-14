@@ -1,0 +1,6 @@
+^kotdijiproj\.Rproj$
+^\.Rproj\.user$
+^kotdijiproj\.Rcheck$
+^kotdijiproj.*\.tar\.gz$
+^kotdijiproj.*\.tgz$
+^LICENSE\.md$
