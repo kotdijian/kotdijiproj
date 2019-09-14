@@ -1,3 +1,6 @@
 .Rproj.user
 .Rhistory
 .RData
+kotdijiproj.Rcheck/
+kotdijiproj*.tar.gz
+kotdijiproj*.tgz
